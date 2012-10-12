@@ -1,5 +1,4 @@
 
-
 import java.util.*;
 import java.util.regex.*;
 import java.io.DataInputStream;
@@ -7,7 +6,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-//Adam and Neil
 //alphatbet = abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,~!@$#%^&-+{}
 
 
